@@ -1,16 +1,21 @@
-# clean_architecture_ttd_jsonplaceholder
+# Clean Architecture App Using JsonPaceHolder Apis
 
-A new Flutter project.
+# Descreption
+   Simple App to practice on Clean Architecture for Apps
 
-## Getting Started
+## Integrations
 
-This project is a starting point for a Flutter application.
+- flutter_bloc
+- dartz: ^0.10.1
+- equatable: ^2.0.5
+- internet_connection_checker: ^1.0.0+1
+- http: ^1.1.0
+- shared_preferences: ^2.2.1
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Project Photos
+- App ScreenShots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ScreenShots](Appscreenshots/Appsc.jpg)
+
+
